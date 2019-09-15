@@ -1,0 +1,23 @@
+{
+	"messageVersion": "1.0",
+	"invocationSource": "DialogCodeHook",
+	"userId": "",
+	"sessionAttributes": {
+	},
+	"bot": {
+		"name": "Grappy",
+		"alias": null,
+		"version": "$LATEST"
+	},
+	"outputDialogMode": "SSML",
+	"currentIntent": {
+		"name": "VirtualPlayCardIntent",
+		"slots": {
+			"Name": "User_Name",
+			"canStart": "no",
+			"Animal": null
+		},
+		"confirmationStatus": "None"
+	},
+	"inputTranscript": "No"
+}
